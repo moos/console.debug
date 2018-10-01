@@ -1,0 +1,23 @@
+{
+  "name": "console.debug",
+  "version": "0.1.0",
+  "description": "helpers for visionmedia's `debug` in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/moos/console.debug"
+  },
+  "keywords": [
+    "debug",
+    "console",
+    "browser"
+  ],
+  "author": "Moos",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
